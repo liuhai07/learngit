@@ -6,3 +6,5 @@ git push test
 creat a new branch
 creat another new branch
 Creating a new branch is quick and simple.
+add stratge for this branch
+
