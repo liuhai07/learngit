@@ -5,3 +5,4 @@ Git tracks changes of filesS
 git push test
 creat a new branch
 creat another new branch
+add stratge for this branch
