@@ -11,3 +11,4 @@ add stratge for this branch
 //////////////////////////////////////
 
 liuhaihaihihi
+wo zheng zai kai fa dev fen zhi
