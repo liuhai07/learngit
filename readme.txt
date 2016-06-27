@@ -15,3 +15,4 @@ wo zheng zai kai fa dev fen zhi
 wo zheheeehehehehehehehehehe
 
 this is designed on ThinkPad
+this is designed on DELL
